@@ -11,6 +11,6 @@ Visitor count <br>
 
 My favorite repos:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Streakwind&repo=Monke&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Streakwind&repo=Include-Files&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Streakwind&repo=SomeRandomBot&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Streakwind&repo=Monke&theme=dark)](https://github.com/Streakwind/Monke)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Streakwind&repo=Include-Files&theme=dark)](https://github.com/Streakwind/Include-Files)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Streakwind&repo=SomeRandomBot&theme=dark)](https://github.com/Streakwind/SomeRandomBot)
