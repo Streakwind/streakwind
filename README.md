@@ -5,3 +5,5 @@ Visitor count <br>
 ![Visitor Count](https://profile-counter.glitch.me/Streakwind/count.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Streakwind&layout=compact)]()
+
+![stats](https://github-readme-stats.vercel.app/api?username=Streakwind&show_icons=true&theme=dark)
