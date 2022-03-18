@@ -7,3 +7,5 @@ Visitor count <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Streakwind&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Streakwind&show_icons=true&theme=dark)
+
+[![Streakwind's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Streakwind)](https://github.com/anuraghazra/github-readme-stats)
