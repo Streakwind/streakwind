@@ -8,4 +8,3 @@ Visitor count <br>
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Streakwind&show_icons=true&theme=dark)
 
-[![Streakwind's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Streakwind)](https://github.com/anuraghazra/github-readme-stats)
