@@ -8,6 +8,9 @@ Competitive programmer :)
 
 my old account that I forgot about: https://github.com/Ben-tech787
 
+been programming since 2019; starting competitive programming in 2020
+
+vv random stuff vv
 Visitor count:
 
 ![Visitor Count](https://profile-counter.glitch.me/Streakwind/count.svg)
