@@ -3,12 +3,13 @@ I'm fluent in C++ and can code in Python; I can't do web development that well.
 I speak Chinese and English - communicate with me in any way, except I prefer English.
 
 Competitive programmer :)
-- I participated in all the USACOs since the 2020-2021 seasons start.
-- I also did Teamscode once.
+- I participated in all the [USACOs](https://http://usaco.org/) since the 2020-2021 seasons start - in bronze division 
+- I do [Teamscode](https://www.teamscode.org/) (Spring 2022)
+- I do the [IAI](https://iai.sh.cn/contest/) too :) (June)
 
 my old account that I forgot about: https://github.com/Ben-tech787
 
-been programming since 2019; starting competitive programming in 2020
+been programming since 2019 (js); starting competitive programming in 2020 (cpp)
 
 vv random stuff vv
 Visitor count:
