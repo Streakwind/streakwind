@@ -5,7 +5,7 @@ I speak Chinese and English - communicate with me in any way, except I prefer En
 Competitive programmer :)
 - I participated in all the [USACOs](https://http://usaco.org/) since the 2020-2021 seasons start - in bronze division 
 - I do [Teamscode](https://www.teamscode.org/) (Spring 2022)
-- I do the [IAI](https://iai.sh.cn/contest/) too :) (June)
+- I do the [IAI](https://iai.sh.cn/contest/) too :) (June - Group C 310 points, second prize)
 
 my old account that I forgot about: https://github.com/Ben-tech787
 
